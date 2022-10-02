@@ -1,0 +1,1 @@
+worker: python weather_tg_bot.py
